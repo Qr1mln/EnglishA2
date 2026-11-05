@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cf3a58e9971c801b",
+        "id": "00927c6941812fab",
         "type": "tabs",
         "children": [
           {
-            "id": "d073879e5e748d64",
+            "id": "256a2157ccac73c7",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
         ]
@@ -193,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d073879e5e748d64",
+  "active": "39e01fc753d59075",
   "lastOpenFiles": [
-    "Untitled.base",
     "Excalidraw/Unit01.excalidraw.md",
+    "Untitled.base",
     "Pasted image 20261103154400.png",
     "Pasted image 20261103072926.png",
     "Pasted image 20261101125512.png",

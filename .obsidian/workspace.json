@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "00927c6941812fab",
+        "id": "8ae607e542febae0",
         "type": "tabs",
         "children": [
           {
-            "id": "256a2157ccac73c7",
+            "id": "0c3dfea268336568",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "excalidraw",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Excalidraw/Unit01.excalidraw.md"
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "excalidraw-icon",
+              "title": "Unit01.excalidraw"
             }
           }
         ]
@@ -99,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Excalidraw/Unit01.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Excalidraw/Unit01.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Excalidraw/Unit01.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -197,10 +198,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39e01fc753d59075",
+  "active": "0c3dfea268336568",
   "lastOpenFiles": [
-    "Excalidraw/Unit01.excalidraw.md",
+    "2026-11-03.md",
     "Untitled.base",
+    "2026-11-05.md",
+    "Excalidraw/Unit01.excalidraw.md",
     "Pasted image 20261103154400.png",
     "Pasted image 20261103072926.png",
     "Pasted image 20261101125512.png",
@@ -208,8 +211,6 @@
     "Pasted image 20261030121344.png",
     "Pasted image 20261030101509.png",
     "Pasted image 20261030093523.png",
-    "2026-11-05.md",
-    "2026-11-03.md",
     "Excalidraw"
   ]
 }
